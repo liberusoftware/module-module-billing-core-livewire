@@ -3,7 +3,7 @@
   "name": "module-billing-core-livewire",
   "display_name": "Billing Core Livewire",
   "description": "Livewire 4 account workflow for Billing Core.",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "category": "presentation",
   "provider": "Liberu\\Billing\\Core\\Livewire\\BillingCoreLivewireServiceProvider",
   "requires": {
